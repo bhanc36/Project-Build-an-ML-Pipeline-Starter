@@ -49,7 +49,7 @@ def go(args):
 # TODO: In the code below, fill in a description for each argument. The description should be a string.
 if __name__ == "__main__":
 
-   parser = argparse.ArgumentParser(description="Basic data cleaning")
+    parser = argparse.ArgumentParser(description="Basic data cleaning")
   
     parser.add_argument(
         "--input_artifact", 
