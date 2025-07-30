@@ -15,6 +15,7 @@ In this project you will build such a pipeline.
   * [The configuration](#the-configuration)
   * [Running the entire pipeline or just a selection of steps](#Running-the-entire-pipeline-or-just-a-selection-of-steps)
   * [Pre-existing components](#pre-existing-components)
+  * [Links](#links)
 
 ## Preliminary steps
 
@@ -175,7 +176,11 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
+### Links
 
+- **W&B Public Project:** [https://wandb.ai/bhanc36-western-governors-university/nyc_airbnb](https://wandb.ai/bhanc36-western-governors-university/nyc_airbnb)
+- **GitHub Repository:** [https://github.com/bhanc36/Project-Build-an-ML-Pipeline-Starter](https://github.com/bhanc36/Project-Build-an-ML-Pipeline-Starter)
+- **Latest Release:** [v1.0.1](https://github.com/bhanc36/Project-Build-an-ML-Pipeline-Starter/releases/tag/1.0.1)
 ## License
 
 [License](LICENSE.txt)
